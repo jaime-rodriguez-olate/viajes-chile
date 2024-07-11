@@ -1,0 +1,66 @@
+
+body {
+    background-color: black !important;
+    color: #fff;
+}
+
+nav {
+    padding: 0;
+}
+nav .container-fluid {
+    background-color: #30a2ad;
+}
+
+header {
+    background-image: url(../img/carousel1.jpg);
+    background-repeat: no-repeat;
+    height: 600px;
+    width: 100%;
+    background-size: cover;
+    object-fit: cover;
+}
+.content {
+    padding-bottom: 20px;
+    color: #fff;
+}
+.content h2 {
+    padding: 20px 0 20px 0;
+    text-align: center;
+}
+
+.content .container i {
+    text-align: center;
+    background-color: #30a2ad;
+
+}
+
+.carrusel {
+    color: #fff;
+}
+.carrusel h2 {
+    text-align: center;
+}
+
+
+
+
+.contacto{
+    color: #fff;
+}
+
+.contacto h2 {
+    text-align: center;
+}
+
+#emailHelp {
+    color: #fff !important;
+}
+footer{
+    color: #fff;
+}
+
+
+
+footer h3{
+    display: inline;
+}
